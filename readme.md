@@ -119,7 +119,7 @@ Cybercrime Information Center \| Malware Activity | https://www.cybercrimeinfoce
 CyberWire Daily Podcast | https://thecyberwire.com/podcasts/daily-podcast
 Reddit \| r/netsec | https://www.reddit.com/r/netsec/
 Reddit \| r/blueteamsec | https://www.reddit.com/r/blueteamsec/
-InfoSec Exchange |  https://infosec.exchange/public/local
+Infosec Exchange |  https://infosec.exchange/public/local
 
 <br>
 
