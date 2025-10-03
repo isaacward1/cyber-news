@@ -115,6 +115,7 @@ ANY.RUN \| Malware Trends Tracker | https://any.run/malware-trends/
 Malpedia Library | https://malpedia.caad.fkie.fraunhofer.de/library
 SOCRadar \| Threat Actors | https://socradar.io/labs/threat-actor/
 Reverse The Malware | https://reversethemalware.blogspot.com/
+Malware News | https://malware.news/
 Cybercrime Information Center \| Malware Activity | https://www.cybercrimeinfocenter.org/malware-activity
 CyberWire Daily Podcast | https://thecyberwire.com/podcasts/daily-podcast
 Reddit \| r/netsec | https://www.reddit.com/r/netsec/
