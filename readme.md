@@ -111,6 +111,7 @@ CIS Advisories | https://cisecurity.org/advisory
 CIS Blog Posts | https://www.cisecurity.org/insights/blog
 SANS NewsBites | https://www.sans.org/newsletters/newsbites
 CISA Advisories | https://www.cisa.gov/news-events/cybersecurity-advisories
+CISA KEV Catalog | https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 ANY.RUN \| Malware Trends Tracker | https://any.run/malware-trends/
 Malpedia Library | https://malpedia.caad.fkie.fraunhofer.de/library
 SOCRadar \| Threat Actors | https://socradar.io/labs/threat-actor/
