@@ -101,6 +101,7 @@ EclecticIQ | https://blog.eclecticiq.com/?type=intelligence-research |
 Blackpoint | https://blackpointcyber.com/threat-intelligence-and-research/ | 
 Trend Micro | https://trendmicro.com/en_us/research.html | 
 Censys Blog | https://censys.com/resources/blog | 
+CyberProof | https://www.cyberproof.com/blog/tag/threat-research |
 
 <br>
 
