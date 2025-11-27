@@ -104,6 +104,7 @@ Trend Micro | https://trendmicro.com/en_us/research.html |
 Censys Blog | https://censys.com/resources/blog | 
 CyberProof | https://www.cyberproof.com/blog/tag/threat-research |
 Trellix | https://www.trellix.com/blogs/research/ |
+Cynet | https://www.cynet.com/blog/ |
 
 <br>
 
