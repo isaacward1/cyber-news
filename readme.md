@@ -1,5 +1,5 @@
 my collection of cybersecurity news and threat intelligence links/feeds<br>
-https://start.me/p/QLDn25/cti
+<br>https://start.me/p/QLDn25/cti
 
 <br>
 
@@ -21,10 +21,11 @@ GBHackers \| Threats | https://gbhackers.com/category/threatsattacks | https://g
 GBHackers \| Malware | https://gbhackers.com/category/malware | https://gbhackers.com/category/malware/feed
 GBHackers \| Ransomware | https://gbhackers.com/category/ransome | https://gbhackers.com/category/ransome/feed
 Cyber Security News | https://cybersecuritynews.com | https://cybersecuritynews.com/feed/
+Cyber Press | https://cyberpress.org/ | https://cyberpress.org/feed/
 
 <br>
 
-## CTI Blogs
+## CTI/Research Blogs
 | Name | Link | Feed |
 | --- | --- | --- |
 Cato CTRL | https://www.catonetworks.com/blog/category/cato-ctrl/ | https://www.catonetworks.com/blog/category/cato-ctrl/feed
@@ -102,6 +103,7 @@ Blackpoint | https://blackpointcyber.com/threat-intelligence-and-research/ |
 Trend Micro | https://trendmicro.com/en_us/research.html | 
 Censys Blog | https://censys.com/resources/blog | 
 CyberProof | https://www.cyberproof.com/blog/tag/threat-research |
+Trellix | https://www.trellix.com/blogs/research/ |
 
 <br>
 
@@ -126,7 +128,7 @@ Infosec Exchange |  https://infosec.exchange/public/local
 
 <br>
 
-## Dark
+## Dark Web
 | Name | Link
 | --- | --- |
 Dark Web Informer | https://darkwebinformer.com/
@@ -137,7 +139,7 @@ ransomware.live | https://www.ransomware.live/
 
 <br>
 
-## Vulns
+## Vulns, Bugs, Exploits
 | Name | Link | Feed |
 | --- | --- | --- |
 cvefeed.io | https://cvefeed.io/ | https://cvefeed.io/rssfeed/severity/high.xml
