@@ -79,32 +79,33 @@ TRAC Labs | https://trac-labs.com/ | <https://medium.com/feed/@traclabs_>
 Proofpoint Threat Insight | https://www.proofpoint.com/us/blog/threat-insight | 
 Hive Pro | https://hivepro.com/threat-advisory/ | 
 Hunt.io | https://hunt.io/blog | 
-CrowdStrike TI | https://www.crowdstrike.com/en-us/blog/category.counter-adversary-operations/ | 
+CrowdStrike TI | https://www.crowdstrike.com/en-us/blog/category.counter-adversary-operations/ | https://www.crowdstrike.com/en-us/blog/feed
 Forcepoint X-Labs | https://www.forcepoint.com/blog/x-labs | 
 DarkAtlas | https://darkatlas.io/blog | 
 Validin | https://www.validin.com/blog/ | 
 Team Cymru | https://www.team-cymru.com/blog | 
-Rapid7 Threat Research | https://www.rapid7.com/blog/?blog_category=Threat+Research | 
+Rapid7 Threat Research | https://www.rapid7.com/blog/?blog_category=Threat+Research | https://www.rapid7.com/rss.xml
 Darktrace | https://www.darktrace.com/inside-the-soc | 
 FalconFeeds.io | https://falconfeeds.io/blogs | 
-Sucuri | https://blog.sucuri.net/ | 
-Lumu | https://lumu.io/blog/ | 
-CYFIRMA | https://www.cyfirma.com/cyber-research/ | 
+Sucuri | https://blog.sucuri.net/ | https://blog.sucuri.net/feed
+Lumu | https://lumu.io/blog/ | https://lumu.io/feed/
+CYFIRMA | https://www.cyfirma.com/cyber-research/ | https://www.cyfirma.com/feed/
 Cleafy LABS | https://www.cleafy.com/labs | 
 Zimperium zLabs | https://zimperium.com/blog-zlabs | 
 Red Canary TI | https://redcanary.com/blog/?topic=threat-intelligence | 
-DomainTools Blog | https://domaintools.com/resources/blog/ | 
-DNSFilter Blog | https://www.dnsfilter.com/blog | 
-Securonix | https://www.securonix.com/blog/?_categories=threat-research | 
+DomainTools Blog | https://domaintools.com/resources/blog/ | https://www.domaintools.com/feed/
+DNSFilter Blog | https://www.dnsfilter.com/blog | https://www.dnsfilter.com/blog/rss.xml
+Securonix | https://www.securonix.com/blog/?_categories=threat-research | https://www.securonix.com/feed/
 Zscaler | https://www.zscaler.com/blogs?type=security-research | 
-ReliaQuest | https://reliaquest.com/threat-research-team/ | 
-EclecticIQ | https://blog.eclecticiq.com/?type=intelligence-research | 
+ReliaQuest | https://reliaquest.com/threat-research-team/ | https://reliaquest.com/rss.xml
+EclecticIQ | https://blog.eclecticiq.com/?type=intelligence-research | https://blog.eclecticiq.com/rss.xml
 Blackpoint | https://blackpointcyber.com/threat-intelligence-and-research/ | 
 Trend Micro | https://trendmicro.com/en_us/research.html | 
 Censys Blog | https://censys.com/resources/blog | 
 CyberProof | https://www.cyberproof.com/blog/tag/threat-research |
 Trellix | https://www.trellix.com/blogs/research/ |
 Cynet | https://www.cynet.com/blog/ |
+Datadog Security Labs | https://securitylabs.datadoghq.com/articles/?tag=threat_research | https://securitylabs.datadoghq.com/rss/feed.xml
 
 <br>
 
