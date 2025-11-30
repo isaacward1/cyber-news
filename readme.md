@@ -106,6 +106,7 @@ CyberProof | https://www.cyberproof.com/blog/tag/threat-research |
 Trellix | https://www.trellix.com/blogs/research/ |
 Cynet | https://www.cynet.com/blog/ |
 Datadog Security Labs | https://securitylabs.datadoghq.com/articles/?tag=threat_research | https://securitylabs.datadoghq.com/rss/feed.xml
+Nextron Systems | https://www.nextron-systems.com/blog/ | https://www.nextron-systems.com/feed/ 
 
 <br>
 
