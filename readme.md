@@ -75,7 +75,6 @@ Resecurity | https://www.resecurity.com | https://www.resecurity.com/feed
 Unit 221B | https://blog.unit221b.com/dont-read-this-blog | https://blog.unit221b.com/dont-read-this-blog/rss.xml
 PolySwarm | https://blog.polyswarm.io | https://blog.polyswarm.io/rss.xml
 Silent Push | https://www.silentpush.com/category/blog | https://www.silentpush.com/category/blog/feed/
-Bolster | https://bolster.ai/category/research-labs | https://bolster.ai/category/research-labs/feed
 TRAC Labs | https://trac-labs.com/ | <https://medium.com/feed/@traclabs_>
 Proofpoint Threat Insight | https://www.proofpoint.com/us/blog/threat-insight | 
 Hive Pro | https://hivepro.com/threat-advisory/ | 
@@ -107,7 +106,8 @@ CyberProof | https://www.cyberproof.com/blog/tag/threat-research |
 Trellix | https://www.trellix.com/blogs/research/ |
 Cynet | https://www.cynet.com/blog/ |
 Datadog Security Labs | https://securitylabs.datadoghq.com/articles/?tag=threat_research | https://securitylabs.datadoghq.com/rss/feed.xml
-Nextron Systems | https://www.nextron-systems.com/blog/ | https://www.nextron-systems.com/feed/ 
+Nextron Systems | https://www.nextron-systems.com/blog/ | https://www.nextron-systems.com/feed/
+Bolster | https://bolster.ai/category/research-labs | https://bolster.ai/category/research-labs/feed
 
 <br>
 
