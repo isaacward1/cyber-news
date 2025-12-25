@@ -75,7 +75,7 @@ Resecurity | https://www.resecurity.com | https://www.resecurity.com/feed
 Unit 221B | https://blog.unit221b.com/dont-read-this-blog | https://blog.unit221b.com/dont-read-this-blog/rss.xml
 PolySwarm | https://blog.polyswarm.io | https://blog.polyswarm.io/rss.xml
 Silent Push | https://www.silentpush.com/category/blog | https://www.silentpush.com/category/blog/feed/
-TRAC Labs | https://trac-labs.com/ | <https://medium.com/feed/@traclabs_>
+Lumma Labs | https://lumma-labs.com/ | https://medium.com/feed/@lummalabs
 Proofpoint Threat Insight | https://www.proofpoint.com/us/blog/threat-insight | 
 Hive Pro | https://hivepro.com/threat-advisory/ | 
 Hunt.io | https://hunt.io/blog | 
