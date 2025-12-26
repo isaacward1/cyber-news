@@ -121,13 +121,15 @@ CISA Advisories | https://www.cisa.gov/news-events/cybersecurity-advisories
 CISA KEV Catalog | https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 ANY.RUN \| Malware Trends Tracker | https://any.run/malware-trends/
 Malpedia Library | https://malpedia.caad.fkie.fraunhofer.de/library
-SOCRadar \| Threat Actors | https://socradar.io/labs/threat-actor/
 Reverse The Malware | https://reversethemalware.blogspot.com/
 Malware News | https://malware.news/
 Cybercrime Information Center \| Malware Activity | https://www.cybercrimeinfocenter.org/malware-activity
+SOCRadar \| Threat Actors | https://socradar.io/labs/threat-actor/
+Sophos \| Threat Group Profiles | https://www.sophos.com/en-us/threat-profiles
 CyberWire Daily Podcast | https://thecyberwire.com/podcasts/daily-podcast
 Reddit \| r/netsec | https://www.reddit.com/r/netsec/
 Reddit \| r/blueteamsec | https://www.reddit.com/r/blueteamsec/
+Reddit \| r/Malware | https://www.reddit.com/r/Malware/
 Infosec Exchange |  https://infosec.exchange/public/local
 
 <br>
