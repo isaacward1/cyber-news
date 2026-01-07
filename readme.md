@@ -108,6 +108,7 @@ Cynet | https://www.cynet.com/blog/ |
 Datadog Security Labs | https://securitylabs.datadoghq.com/articles/?tag=threat_research | https://securitylabs.datadoghq.com/rss/feed.xml
 Nextron Systems | https://www.nextron-systems.com/blog/ | https://www.nextron-systems.com/feed/
 Bolster | https://bolster.ai/category/research-labs | https://bolster.ai/category/research-labs/feed
+BlueVoyant | https://www.bluevoyant.com/blog?page=1&topic=threat-intelligence |
 
 <br>
 
