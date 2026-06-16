@@ -128,6 +128,7 @@ TrustedSec | https://trustedsec.com/blog | https://trustedsec.com/feed.rss
 Breakglass Intelligence | https://intel.breakglass.tech/ | https://intel.breakglass.tech/rss
 StepSecurity | https://www.stepsecurity.io/blog | https://www.stepsecurity.io/blog/rss.xml
 Ctrl-Alt-Intel | https://ctrlaltintel.com/categories/#research | https://ctrlaltintel.com/feed.xml
+Volexity | https://www.volexity.com/blog/ | 
 
 <br>
 
